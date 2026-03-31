@@ -1,0 +1,260 @@
+
+> xm@0.1.0 dev
+> next dev --webpack --hostname 0.0.0.0 --port 3000
+
+▲ Next.js 16.1.4 (webpack)
+- Local:         http://localhost:3000
+- Network:       http://0.0.0.0:3000
+- Environments: .env
+
+✓ Starting...
+✓ Ready in 2.5s
+ GET / 200 in 2.7s (compile: 2.1s, render: 596ms)
+ GET / 200 in 145ms (compile: 38ms, render: 108ms)
+○ Compiling /api/auth/me ...
+ GET /api/auth/me 200 in 4.4s (compile: 4.4s, render: 73ms)
+ GET /api/settings 200 in 4.4s (compile: 4.4s, render: 72ms)
+ GET / 200 in 223ms (compile: 108ms, render: 115ms)
+ GET /api/projects?summary=1 200 in 2.2s (compile: 1413ms, render: 790ms)
+ GET /api/pricing 200 in 3.6s (compile: 1721ms, render: 1844ms)
+ GET /projects 200 in 1090ms (compile: 991ms, render: 100ms)
+ GET /api/auth/me 200 in 225ms (compile: 207ms, render: 18ms)
+ GET /api/projects 200 in 678ms (compile: 14ms, render: 664ms)
+ GET /project/3 200 in 1470ms (compile: 1400ms, render: 70ms)
+ GET /api/auth/me 200 in 323ms (compile: 303ms, render: 20ms)
+ GET /api/pricing?projectId=3 200 in 3.0s (compile: 276ms, render: 2.7s)
+ GET /api/projects/3 200 in 5.3s (compile: 1864ms, render: 3.5s)
+ GET /api/pricing?projectId=3 200 in 2.9s (compile: 63ms, render: 2.8s)
+ GET /api/pricing/pslns4u5l 200 in 3.8s (compile: 1540ms, render: 2.2s)
+ GET / 200 in 192ms (compile: 106ms, render: 86ms)
+ GET /api/auth/me 200 in 39ms (compile: 18ms, render: 21ms)
+ GET /api/projects?summary=1 200 in 980ms (compile: 18ms, render: 962ms)
+ GET /api/pricing 200 in 1060ms (compile: 152ms, render: 907ms)
+ GET /projects 200 in 65ms (compile: 31ms, render: 34ms)
+ GET /api/auth/me 200 in 24ms (compile: 5ms, render: 19ms)
+ GET /api/projects 200 in 572ms (compile: 5ms, render: 568ms)
+ GET / 200 in 39ms (compile: 7ms, render: 31ms)
+ GET /api/auth/me 200 in 16ms (compile: 3ms, render: 13ms)
+ GET /api/projects?summary=1 200 in 236ms (compile: 4ms, render: 232ms)
+ GET /api/pricing 200 in 665ms (compile: 3ms, render: 662ms)
+○ Compiling /admin/permissions ...
+ GET /pricing 200 in 4.0s (compile: 3.8s, render: 160ms)
+ GET /projects 200 in 1316ms (compile: 1157ms, render: 159ms)
+ GET /admin/permissions 200 in 3.6s (compile: 3.4s, render: 192ms)
+ GET /projects 200 in 83ms (compile: 15ms, render: 68ms)
+ GET /api/auth/me 200 in 507ms (compile: 481ms, render: 26ms)
+ GET /admin/permissions 200 in 648ms (compile: 12ms, render: 636ms)
+ GET /admin/permissions 200 in 136ms (compile: 60ms, render: 76ms)
+ GET /admin/permissions 200 in 47ms (compile: 13ms, render: 33ms)
+ GET /api/projects 200 in 887ms (compile: 24ms, render: 863ms)
+ GET /projects 200 in 158ms (compile: 81ms, render: 78ms)
+ GET /projects 200 in 391ms (compile: 248ms, render: 143ms)
+ GET /projects 200 in 205ms (compile: 115ms, render: 90ms)
+ GET /projects 200 in 114ms (compile: 68ms, render: 46ms)
+ GET /projects 200 in 118ms (compile: 65ms, render: 53ms)
+ GET /projects 200 in 106ms (compile: 67ms, render: 39ms)
+ GET /projects 200 in 35ms (compile: 7ms, render: 28ms)
+ GET /projects 200 in 55ms (compile: 11ms, render: 45ms)
+ GET /projects 200 in 34ms (compile: 6ms, render: 27ms)
+ GET /projects 200 in 45ms (compile: 10ms, render: 34ms)
+ GET /projects 200 in 38ms (compile: 8ms, render: 30ms)
+ GET /projects 200 in 42ms (compile: 10ms, render: 33ms)
+ GET /projects 200 in 45ms (compile: 8ms, render: 37ms)
+ GET /projects 200 in 49ms (compile: 11ms, render: 38ms)
+ GET /projects 200 in 46ms (compile: 10ms, render: 36ms)
+ GET /projects 200 in 211ms (compile: 130ms, render: 82ms)
+ GET /projects 200 in 189ms (compile: 131ms, render: 58ms)
+ GET /projects 200 in 121ms (compile: 81ms, render: 39ms)
+ GET /projects 200 in 84ms (compile: 24ms, render: 60ms)
+ GET /projects 200 in 226ms (compile: 147ms, render: 79ms)
+ GET /projects 200 in 203ms (compile: 125ms, render: 78ms)
+ GET /projects 200 in 203ms (compile: 151ms, render: 52ms)
+ GET /projects 200 in 1370ms (compile: 1023ms, render: 347ms)
+ GET /api/auth/me 200 in 3.2s (compile: 3.1s, render: 47ms)
+ GET /api/settings 200 in 3.2s (compile: 3.1s, render: 47ms)
+ GET /api/projects 200 in 2.2s (compile: 1003ms, render: 1156ms)
+ GET / 200 in 1069ms (compile: 973ms, render: 96ms)
+ GET / 200 in 65ms (compile: 31ms, render: 34ms)
+ GET / 200 in 33ms (compile: 6ms, render: 27ms)
+ GET /api/auth/me 200 in 494ms (compile: 470ms, render: 24ms)
+ GET /api/auth/me 200 in 18ms (compile: 5ms, render: 13ms)
+ GET /api/projects?summary=1 200 in 1183ms (compile: 507ms, render: 676ms)
+ GET /api/projects?summary=1 200 in 212ms (compile: 3ms, render: 208ms)
+ GET /api/pricing 200 in 3.0s (compile: 1362ms, render: 1615ms)
+ GET /pricing 200 in 1571ms (compile: 1490ms, render: 81ms)
+ GET /pricing 200 in 41ms (compile: 14ms, render: 28ms)
+ GET /api/auth/me 200 in 254ms (compile: 234ms, render: 19ms)
+ GET /api/auth/me 200 in 18ms (compile: 4ms, render: 14ms)
+ GET /api/pricing 200 in 1697ms (compile: 104ms, render: 1593ms)
+ GET / 200 in 1477ms (compile: 1361ms, render: 116ms)
+ GET / 200 in 34ms (compile: 7ms, render: 27ms)
+ GET /api/auth/me 200 in 27ms (compile: 10ms, render: 16ms)
+ GET /api/auth/me 200 in 18ms (compile: 5ms, render: 14ms)
+ GET /api/projects?summary=1 200 in 675ms (compile: 41ms, render: 633ms)
+ GET /api/projects?summary=1 200 in 236ms (compile: 4ms, render: 232ms)
+ GET /api/pricing 200 in 1386ms (compile: 63ms, render: 1323ms)
+ GET /api/pricing/pslns4u5l 200 in 5.2s (compile: 2.1s, render: 3.1s)
+⨯ ./app/projects/page.tsx
+Error:   x Return statement is not allowed here
+    ,-[E:\traexm\xm\app\projects\page.tsx:23:1]
+ 20 |    const router = useRouter();
+ 21 |        return project.type === "department" && project.departmentId === currentUser.departmentId;
+ 22 |      }
+ 23 |      return false;
+    :      ^^^^^^^^^^^^^
+ 24 |    };
+ 25 |  
+ 26 |    const handleDeleteProject = (id: string) => {
+    `----
+  x Expression expected
+    ,-[E:\traexm\xm\app\projects\page.tsx:24:1]
+ 21 |        return project.type === "department" && project.departmentId === currentUser.departmentId;
+ 22 |      }
+ 23 |      return false;
+ 24 |    };
+    :    ^
+ 25 |  
+ 26 |    const handleDeleteProject = (id: string) => {
+ 27 |      if (confirm("确定要删除这个项目吗？")) {
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/projects/page.tsx
+○ Compiling /_error ...
+⨯ ./app/projects/page.tsx
+Error:   x Return statement is not allowed here
+    ,-[E:\traexm\xm\app\projects\page.tsx:23:1]
+ 20 |    const router = useRouter();
+ 21 |        return project.type === "department" && project.departmentId === currentUser.departmentId;
+ 22 |      }
+ 23 |      return false;
+    :      ^^^^^^^^^^^^^
+ 24 |    };
+ 25 |  
+ 26 |    const handleDeleteProject = (id: string) => {
+    `----
+  x Expression expected
+    ,-[E:\traexm\xm\app\projects\page.tsx:24:1]
+ 21 |        return project.type === "department" && project.departmentId === currentUser.departmentId;
+ 22 |      }
+ 23 |      return false;
+ 24 |    };
+    :    ^
+ 25 |  
+ 26 |    const handleDeleteProject = (id: string) => {
+ 27 |      if (confirm("确定要删除这个项目吗？")) {
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/projects/page.tsx
+ GET / 500 in 14.2s (compile: 13.8s, render: 421ms)
+ GET /projects 500 in 11.9s (compile: 11.5s, render: 360ms)
+ GET /projects 500 in 29ms (compile: 10ms, render: 19ms)
+ GET /projects 500 in 26ms (compile: 8ms, render: 18ms)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'E:\traexm\xm\.next\dev\cache\webpack\client-development-fallback\0.pack.gz_' -> 'E:\traexm\xm\.next\dev\cache\webpack\client-development-fallback\0.pack.gz'
+ GET /projects 200 in 519ms (compile: 420ms, render: 99ms)
+ GET /projects 200 in 261ms (compile: 10ms, render: 252ms)
+ GET /api/auth/me 200 in 2.4s (compile: 2.3s, render: 78ms)
+ GET /api/settings 200 in 2.4s (compile: 2.3s, render: 77ms)
+ GET /api/projects?summary=1 200 in 3.4s (compile: 2.3s, render: 1118ms)
+ GET /projects 200 in 218ms (compile: 120ms, render: 98ms)
+ GET /projects 200 in 317ms (compile: 235ms, render: 82ms)
+ GET /projects 200 in 231ms (compile: 8ms, render: 223ms)
+ GET / 200 in 66ms (compile: 28ms, render: 37ms)
+ GET /api/auth/me 200 in 579ms (compile: 550ms, render: 29ms)
+ GET /api/auth/me 200 in 17ms (compile: 4ms, render: 13ms)
+ GET /api/projects?summary=1 200 in 899ms (compile: 40ms, render: 859ms)
+ GET /api/projects?summary=1 200 in 248ms (compile: 4ms, render: 244ms)
+ GET /projects 200 in 167ms (compile: 97ms, render: 70ms)
+ GET /api/auth/me 200 in 30ms (compile: 10ms, render: 20ms)
+ GET /api/auth/me 200 in 23ms (compile: 6ms, render: 17ms)
+ GET /api/projects?summary=1 200 in 736ms (compile: 48ms, render: 688ms)
+ GET /api/projects?summary=1 200 in 198ms (compile: 3ms, render: 195ms)
+ GET /api/pricing 200 in 3.4s (compile: 1787ms, render: 1649ms)
+ GET /project/3 200 in 114ms (compile: 63ms, render: 51ms)
+ GET /api/auth/me 200 in 23ms (compile: 10ms, render: 14ms)
+ GET /api/auth/me 200 in 18ms (compile: 4ms, render: 15ms)
+ GET /api/pricing?projectId=3 200 in 4.8s (compile: 26ms, render: 4.8s)
+ GET /api/projects/3 200 in 7.8s (compile: 1048ms, render: 6.8s)
+ GET /api/pricing?projectId=3 200 in 3.4s (compile: 139ms, render: 3.3s)
+ GET /api/pricing/pslns4u5l 200 in 4.1s (compile: 1773ms, render: 2.4s)
+ GET /api/projects/3 200 in 2.8s (compile: 27ms, render: 2.8s)
+ GET /api/project-measures?mainId=3 200 in 1098ms (compile: 1076ms, render: 21ms)
+ GET /project/3 200 in 292ms (compile: 179ms, render: 113ms)
+ GET /project/3 200 in 459ms (compile: 302ms, render: 157ms)
+ GET /project/3 200 in 111ms (compile: 48ms, render: 62ms)
+ GET /project/3 200 in 224ms (compile: 155ms, render: 70ms)
+ GET /api/auth/me 200 in 1920ms (compile: 1843ms, render: 77ms)
+ GET /project/3 200 in 177ms (compile: 102ms, render: 75ms)
+ GET /api/projects/3 200 in 4.8s (compile: 1825ms, render: 3.0s)
+ GET /api/pricing/pslns4u5l 200 in 4.8s (compile: 1823ms, render: 3.0s)
+ GET /project/3 200 in 127ms (compile: 67ms, render: 60ms)
+ GET /api/project-measures?mainId=3 200 in 3.9s (compile: 1361ms, render: 2.6s)
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ ReferenceError: Cannot access 'allowEdit' before initialization
+    at ProjectDetail (app\project\[id]\page.tsx:432:7)
+  430 |       }
+  431 |     })();
+> 432 |   }, [allowEdit, id, pendingMeasureTaskDrafts, router]);
+      |       ^
+  433 |
+  434 |   const diffItems = useMemo(
+  435 |     () => (Array.isArray(project?.bomDiffItems) ? project?.bomDiffItems ?? [] : []), {
+  digest: '2876420416'
+}
+ GET /project/3 200 in 1249ms (compile: 922ms, render: 327ms)
+ GET /api/settings 200 in 1377ms (compile: 1353ms, render: 24ms)
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /project/3 200 in 1687ms (compile: 1489ms, render: 198ms)
+ GET /api/settings 200 in 251ms (compile: 233ms, render: 17ms)
+ GET /api/auth/me 200 in 273ms (compile: 258ms, render: 15ms)
+ GET /api/projects/3 200 in 4.2s (compile: 27ms, render: 4.2s)
+ GET /api/pricing?projectId=3 200 in 4.7s (compile: 2.4s, render: 2.4s)
+ GET /api/pricing/pslns4u5l 200 in 1649ms (compile: 36ms, render: 1613ms)
+ GET /api/project-measures?mainId=3 500 in 2.3s (compile: 20ms, render: 2.3s)
+ GET /api/auth/me 200 in 2.1s (compile: 1926ms, render: 139ms)
+ GET /project/3 200 in 2.1s (compile: 1896ms, render: 161ms)
+ GET /api/pricing/pslns4u5l 200 in 4.8s (compile: 1903ms, render: 2.9s)
+ GET /api/projects/3 200 in 5.2s (compile: 1905ms, render: 3.3s)
+ GET /api/project-measures?mainId=3 500 in 3.2s (compile: 1400ms, render: 1750ms)
+ GET /project/3 200 in 355ms (compile: 275ms, render: 80ms)
+ GET /api/auth/me 200 in 1398ms (compile: 1330ms, render: 68ms)
+ GET /project/3 200 in 178ms (compile: 104ms, render: 75ms)
+ GET /api/pricing/pslns4u5l 200 in 4.2s (compile: 1310ms, render: 2.9s)
+ GET /api/projects/3 200 in 4.6s (compile: 1313ms, render: 3.3s)
+ GET /project/3 200 in 165ms (compile: 78ms, render: 87ms)
+ GET /api/project-measures?mainId=3&altMainId=JFS03-B1WA50-368-01 500 in 3.1s (compile: 1066ms, render: 2.1s)
+ GET /project/3 200 in 252ms (compile: 22ms, render: 230ms)
+ GET /api/auth/me 200 in 2.5s (compile: 2.4s, render: 89ms)
+ GET /api/settings 200 in 2.5s (compile: 2.5s, render: 75ms)
+ GET /api/pricing?projectId=3 200 in 4.4s (compile: 2.4s, render: 2.0s)
+ GET /api/projects/3 200 in 5.8s (compile: 2.4s, render: 3.3s)
+ GET /api/pricing/pslns4u5l 200 in 3.8s (compile: 781ms, render: 3.0s)
+ GET /api/project-measures?mainId=3&altMainId=JFS03-B1WA50-368-01 500 in 2.5s (compile: 767ms, render: 1742ms)
+ GET /project/3 200 in 409ms (compile: 335ms, render: 74ms)
+ GET /project/3 200 in 444ms (compile: 54ms, render: 391ms)
+ GET /api/auth/me 200 in 3.4s (compile: 3.2s, render: 109ms)
+ GET /api/settings 200 in 3.4s (compile: 3.3s, render: 94ms)
+ GET /api/pricing?projectId=3 200 in 5.6s (compile: 3.2s, render: 2.4s)
+ GET /api/projects/3 200 in 7.3s (compile: 3.2s, render: 4.0s)
+ GET /project/3 200 in 182ms (compile: 110ms, render: 72ms)
+ GET /api/pricing/pslns4u5l 200 in 4.5s (compile: 1296ms, render: 3.2s)
+ GET /api/project-measures?mainId=3&altMainId=JFS03-B1WA50-368-01 500 in 3.4s (compile: 1163ms, render: 2.3s)
+ GET /project/3 200 in 329ms (compile: 262ms, render: 68ms)
+ GET /project/3 200 in 2.3s (compile: 413ms, render: 1858ms)
+○ Compiling /api/pricing ...
+ GET /api/auth/me 200 in 5.1s (compile: 5.0s, render: 73ms)
+ GET /api/settings 200 in 5.4s (compile: 5.3s, render: 62ms)
+ GET /project/3 200 in 322ms (compile: 225ms, render: 97ms)
+ GET /api/pricing?projectId=3 200 in 8.3s (compile: 4.9s, render: 3.4s)
+ GET /api/projects/3 200 in 10.0s (compile: 5.0s, render: 5.0s)
+ GET /project/3 200 in 82ms (compile: 43ms, render: 39ms)
+ GET /api/pricing/pslns4u5l 200 in 4.8s (compile: 1193ms, render: 3.6s)
+ GET /api/project-measures?mainId=3&altMainId=JFS03-B1WA50-368-01 500 in 4.2s (compile: 1159ms, render: 3.0s)
