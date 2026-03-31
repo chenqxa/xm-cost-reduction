@@ -1,6 +1,9 @@
 services:
   xm:
-    build: .
+    # 使用 GitHub Packages 预构建镜像（推荐）
+    image: ghcr.io/chenqxa/xm-cost-reduction:main
+    # 如需本地构建，注释上面一行，取消下面一行注释
+    # build: .
     ports:
       - "3000:3000"
     env_file:
